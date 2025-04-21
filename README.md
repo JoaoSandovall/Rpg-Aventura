@@ -1,5 +1,4 @@
-**🎮 Como Jogar
-Digite seu nome para criar o personagem
+🎮 Como Jogar Digite seu nome para criar o personagem
 
 Explore a floresta pressionando Enter
 
@@ -13,8 +12,7 @@ Em combates:
 
 3: Usar poção (a cada 3 vitórias)
 
-⚙️ Mecânicas Principais
-Sistema de níveis e experiência
+⚙️ Mecânicas Principais Sistema de níveis e experiência
 
 Inimigos com comportamentos diferentes
 
@@ -22,10 +20,10 @@ Chance aleatória de encontrar inimigos
 
 Progressão de atributos
 
-🏆 Objetivo
+🏆 Objetivo 
 Sobreviver o máximo possível na Floresta Proibida, derrotando inimigos e subindo de nível.
 
-🛠️ Estrutura do Código
+🛠️ Estrutura do Código 
 Main.java: Fluxo principal do jogo
 
 Jogador.java: Lógica do personagem do jogador
