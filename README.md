@@ -19,7 +19,8 @@ Chance aleatória de encontrar inimigos
 Progressão de atributos  
 
 
-🏆 Objetivo 
+🏆 Objetivo   
+
 Sobreviver o máximo possível na Floresta Proibida, derrotando inimigos e subindo de nível.  
 
 
