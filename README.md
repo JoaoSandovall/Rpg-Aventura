@@ -23,7 +23,8 @@ Progressão de atributos
 Sobreviver o máximo possível na Floresta Proibida, derrotando inimigos e subindo de nível.  
 
 
-🛠️ Estrutura do Código   
+🛠️ Estrutura do Código  
+
 Main.java: Fluxo principal do jogo  
 
 Jogador.java: Lógica do personagem do jogador  
